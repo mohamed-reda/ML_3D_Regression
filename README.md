@@ -51,8 +51,6 @@ declaration. Observe the impact on the loss function, weights, and biases.
 - Higher target values result in higher loss values.
 - The same algorithm and methodology can solve different problems, showcasing the versatility of machine learning.
 
-Feel free to explore, modify, and learn from this simple linear regression example using PyCharm and NumPy.
-
 
 ---
 
